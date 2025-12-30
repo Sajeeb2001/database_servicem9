@@ -1,5 +1,5 @@
 {
-  "name": "servicem8-signature-backend",
+  "name": "servicem8signature-backend",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
